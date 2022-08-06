@@ -1,3 +1,3 @@
-# Number-Guessing-Game
+# Number_Guessing_Game
 
-It is number guessing game in python
+The number guessing game in python!
